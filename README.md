@@ -15,3 +15,21 @@ Interest).
 ✓ Κατηγορία (επιλογή από συγκεκριμένες διαθέσιμες κατηγορίες)
 ✓ Περιγραφή
 ➢ Όλα τα παραπάνω δεδομένα θα καταγράφονται σε ΒΔ SQLite
+
+![test](https://i.imgur.com/pYKwtJW.png)
+![test](https://i.imgur.com/Dsd4ivO.png)
+![test](https://i.imgur.com/96RWuKO.png)
+![test](https://i.imgur.com/Ah2kfX6.png)
+![test](https://i.imgur.com/ZCYxtsZ.png)
+
+![test](https://i.imgur.com/TGlBjrw.png)
+![test](https://i.imgur.com/3P0W5BX.png)
+
+![test](https://i.imgur.com/ZvJgiiy.png)
+![test](https://i.imgur.com/UywclyD.png)
+![test](https://i.imgur.com/ArVsaJr.png)
+![test](https://i.imgur.com/8WYNwPa.png)
+![test](https://i.imgur.com/bBC5OcZ.png)
+
+
+
